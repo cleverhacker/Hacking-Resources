@@ -1,1 +1,6 @@
-# Resources
+# Hacking Resources
+
+# Learning 
+
+# OSNIT
+
