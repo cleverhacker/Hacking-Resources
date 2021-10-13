@@ -9,10 +9,31 @@
 - https://inteltechniques.com/
 - https://www.tracelabs.org/
 - https://osintframework.com/
+- https://git.hopain.cyou/OSINT-Search-Tools/index.html
+- https://intelx.io/
+- https://haveibeenpwned.com/
+- https://dehashed.com/
 - https://github.com/ThoughtfulDev/EagleEye
 - https://pimeyes.com/en
 - https://tineye.com/
-
+## _Scanning_
+- https://www.stationx.net/common-ports-cheat-sheet/
+- https://www.stationx.net/nmap-cheat-sheet/
+- https://github.com/OWASP/Nettacker
+- https://www.shodan.io/
+- https://www.virustotal.com/gui/home/upload
+- https://urlhaus.abuse.ch/about/
+- https://www.greynoise.io/
+## _Vulns/Exploit_
+- https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+- https://owasp.org/www-community/Vulnerability_Scanning_Tools
+- http://pentestmonkey.net/
+- https://gtfobins.github.io/
+- https://crackstation.net/
+- https://owasp.org/Top10/
+- https://cve.mitre.org/
+- http://www.pentest-standard.org/index.php/Post_Exploitation
+- 
 # Learning 
 ## _Operating Systems_
 ### Windows
