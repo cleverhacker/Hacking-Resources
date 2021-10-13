@@ -33,7 +33,6 @@
 - https://owasp.org/Top10/
 - https://cve.mitre.org/
 - http://www.pentest-standard.org/index.php/Post_Exploitation
-- 
 # Learning 
 ## _Operating Systems_
 ### Windows
