@@ -34,7 +34,7 @@
 - https://cve.mitre.org/
 - http://www.pentest-standard.org/index.php/Post_Exploitation
 # Learning 
-##_Networking_
+## _Networking_
 - https://www.udemy.com/course/retro-networking-with-10base5-10base2/
 - https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/
 - https://www.udemy.com/course/rockstar-network-foundations-fe/
@@ -44,14 +44,14 @@
 - https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/
 - https://youtu.be/QKfk7YFILws
 - https://youtu.be/qiQR5rTSshw
-##_Ethical Hacking_
+## _Ethical Hacking_
 - https://ceso.github.io/posts/2020/04/hacking-cheatsheet/
 - https://youtu.be/3Kq1MIfTWCE
 - https://youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl
-##_Labs_
+## _Labs_
 - https://www.hackthebox.eu/
 - https://tryhackme.com/
-## _Operating Systems_
+##  _Operating Systems_
 ### Windows
 - https://www.udemy.com/course/installing-windows-7-10-a-complete-guide/
 - https://www.udemy.com/course/installing-windows-server-2019-for-beginners/
