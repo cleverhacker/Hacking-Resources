@@ -24,6 +24,7 @@
 - https://www.virustotal.com/gui/home/upload
 - https://urlhaus.abuse.ch/about/
 - https://www.greynoise.io/
+- https://urlscan.io/
 ## _Vulns/Exploit_
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
@@ -33,7 +34,15 @@
 - https://owasp.org/Top10/
 - https://cve.mitre.org/
 - http://www.pentest-standard.org/index.php/Post_Exploitation
-# Learning 
+- https://gtfobins.github.io
+- https://lolbas-project.github.io
+- github.com/optiv/ScareCrow 
+# Learning/News
+## _Blogs_
+- https://securityweekly.com/blog
+- https://danielmiessler.com/
+- https://grahamcluley.com/
+- https://thehackernews.com/
 ## _Networking_
 - https://www.udemy.com/course/retro-networking-with-10base5-10base2/
 - https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/
