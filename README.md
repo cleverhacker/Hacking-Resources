@@ -36,7 +36,7 @@
 - http://www.pentest-standard.org/index.php/Post_Exploitation
 - https://gtfobins.github.io
 - https://lolbas-project.github.io
-- github.com/optiv/ScareCrow 
+- https://github.com/optiv/ScareCrow 
 - https://l0phtcrack.gitlab.io/
 - https://hashcat.net/wiki/
 # Learning/News
