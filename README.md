@@ -36,11 +36,9 @@
 - http://www.pentest-standard.org/index.php/Post_Exploitation
 - https://gtfobins.github.io
 - https://lolbas-project.github.io
-- https://github.com/optiv/ScareCrow 
-## _Tools_
-- https://hak5.org/
-- https://www.raspberrypi.org/
-- https://www.amazon.com/Alfa-AWUS036NHA-High-Wireless-Adaptor/dp/B004YD7UBQ/ref=sr_1_3?dchild=1&keywords=alfa+wireless+card&qid=1634526850&sr=8-3
+- github.com/optiv/ScareCrow 
+- https://l0phtcrack.gitlab.io/
+- https://hashcat.net/wiki/
 # Learning/News
 ## _Blogs_
 - https://securityweekly.com/blog
