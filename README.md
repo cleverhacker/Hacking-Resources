@@ -25,6 +25,7 @@
 - https://urlhaus.abuse.ch/about/
 - https://www.greynoise.io/
 - https://urlscan.io/
+- https://owasp.org/www-community/Vulnerability_Scanning_Tools
 ## _Vulns/Exploit_
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
@@ -39,6 +40,8 @@
 - https://github.com/optiv/ScareCrow 
 - https://l0phtcrack.gitlab.io/
 - https://hashcat.net/wiki/
+- https://svg.digi.ninja/index.php
+- https://github.com/swisskyrepo/PayloadsAllTheThings
 # Learning/News
 ## _Blogs_
 - https://securityweekly.com/blog
