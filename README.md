@@ -3,6 +3,9 @@
 ## _Pre Engagment_
 - http://www.pentest-standard.org/index.php/Pre-engagement
 - https://resources.infosecinstitute.com/topic/process-pre-engagement/
+## _General Scripts_
+- https://t.co/PJqbQIZwhd?amp=1
+- https://t.co/vFBDzWhm5i?amp=1
 ## _OSINT_
 - https://github.com/sherlock-project/sherlock
 - https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607
@@ -16,6 +19,8 @@
 - https://github.com/ThoughtfulDev/EagleEye
 - https://pimeyes.com/en
 - https://tineye.com/
+- https://t.co/zKZMFeoDox?amp=1
+- https://t.co/82ROWlrS6a?amp=1
 ## _Scanning_
 - https://www.stationx.net/common-ports-cheat-sheet/
 - https://www.stationx.net/nmap-cheat-sheet/
@@ -26,6 +31,7 @@
 - https://www.greynoise.io/
 - https://urlscan.io/
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
+- https://t.co/9yepC1MgZu?amp=1
 ## _Vulns/Exploit_
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
