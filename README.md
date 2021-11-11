@@ -1,6 +1,5 @@
 # Hacking Resources
 # Created By at0m
-# Hacking
 ## _Pre Engagment_
 - http://www.pentest-standard.org/index.php/Pre-engagement
 - https://resources.infosecinstitute.com/topic/process-pre-engagement/
