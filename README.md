@@ -1,4 +1,5 @@
 # Hacking Resources
+# Created By at0m
 # Hacking
 ## _Pre Engagment_
 - http://www.pentest-standard.org/index.php/Pre-engagement
@@ -31,6 +32,7 @@
 - https://www.greynoise.io/
 - https://urlscan.io/
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
+- https://github.com/iamthefrogy/frogy
 - https://t.co/9yepC1MgZu?amp=1
 ## _Vulns/Exploit_
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
@@ -48,6 +50,12 @@
 - https://hashcat.net/wiki/
 - https://svg.digi.ninja/index.php
 - https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/Dheerajmadhukar/4-ZERO-3
+- https://github.com/jdonsec/AllThingsSSRF
+- https://github.com/yunemse48/403bypasser
+- https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
+- https://github.com/swisskyrepo/SSRFmap
+- https://github.com/theinfosecguy/QuickXSS
 # Learning/News
 ## _Blogs_
 - https://securityweekly.com/blog
