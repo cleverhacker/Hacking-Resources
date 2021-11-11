@@ -61,6 +61,7 @@
 - https://danielmiessler.com/
 - https://grahamcluley.com/
 - https://thehackernews.com/
+- https://www.cosmodiumcs.com/blog
 ## _Networking_
 - https://www.udemy.com/course/retro-networking-with-10base5-10base2/
 - https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/
@@ -75,6 +76,7 @@
 - https://ceso.github.io/posts/2020/04/hacking-cheatsheet/
 - https://youtu.be/3Kq1MIfTWCE
 - https://youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl
+- https://www.cosmodiumcs.com/courses
 ## _Labs_
 - https://www.hackthebox.eu/
 - https://tryhackme.com/
