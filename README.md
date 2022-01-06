@@ -33,6 +33,7 @@
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
 - https://github.com/iamthefrogy/frogy
 - https://t.co/9yepC1MgZu?amp=1
+- https://github.com/chvancooten/BugBountyScanner
 ## _Vulns/Exploit_
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 - https://owasp.org/www-community/Vulnerability_Scanning_Tools
